@@ -16,4 +16,3 @@ promotions:
   - name: Production deploy
     pipeline_file: production-deploy.yml
 
-
